@@ -1,0 +1,8 @@
+{
+  "label": "Treasury System",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "This document provides technical details of the **Treasury System** module in the DemocracyCore plugin. This system empowers the people to remove a president deemed incompetent or abusive before their term naturally ends."
+  }
+}
