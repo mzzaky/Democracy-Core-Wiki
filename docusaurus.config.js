@@ -20,14 +20,17 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  // Set the production url of your site here
+  url: 'https://mzzaky.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/Democracy-Core-Wiki/',
 
   // GitHub pages deployment config.
-  organizationName: 'mzzaky',
-  projectName: 'Democracy-Core',
+  organizationName: 'mzzaky', // Usually your GitHub org/user name.
+  projectName: 'Democracy-Core-Wiki', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
